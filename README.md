@@ -70,15 +70,7 @@
 
 ---
 
-### **3. Recommended Approach**
-Based on your needs, I recommend the **Monolithic Architecture with Serverless Hosting on Vercel**:
-- Streamlined deployment and management.
-- Cost-effective for up to 1500 users.
-- Supports all current requirements and future scalability.
-
----
-
-### **4. Additional Features for the Future**
+### **3. Additional Features for the Future**
 1. **Advanced Member Analytics**:
    - Dashboards with insights like family growth trends, donation statistics, etc.
 2. **Event Payment Integration**:
@@ -92,7 +84,7 @@ Based on your needs, I recommend the **Monolithic Architecture with Serverless H
 
 ---
 
-### **5. Hosting and Maintenance**
+### **4. Hosting and Maintenance**
 1. **Hosting**:
    - **Frontend and Backend**: Vercel (free for most use cases, scalable if traffic increases).
    - **Database**: Use Supabase or Neon for PostgreSQL hosting (free or affordable paid tiers).
